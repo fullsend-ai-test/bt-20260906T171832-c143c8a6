@@ -20,3 +20,10 @@ create_issues:
         repos:
             - fullsend-ai-test/bt-20260906T171832-c143c8a6
             - fullsend-ai/fullsend
+status_notifications:
+    comment:
+        start: enabled
+        completion: enabled
+    reaction:
+        start: enabled
+        completion: enabled
